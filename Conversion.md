@@ -25,7 +25,7 @@
 
 10) upload Images to pinata
 
-11) upload Metadata to pinata
+11) upload Metadata to NFT.storage
 
 12) update image location to Pinata Metadata CID in config.json
 

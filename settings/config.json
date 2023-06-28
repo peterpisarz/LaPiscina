@@ -1,13 +1,13 @@
 {
     "layers": [
-        "Your New Project"
+        "La Piscina"
 
     ],
-    "image_description": "Your New Project",
-    "image_count": 25,
+    "image_description": "La Piscina",
+    "image_count": 20,
     "image_details": {
-        "width": 512,
-        "height": 512
+        "width": 1080,
+        "height": 1080
     },
-    "image_location": "ipfs://QmNN9ATnagEMrC9V5Up9c8KUrZGDiCBQVS58x3ojktg2Lt"
+    "image_location": "ipfs://bafybeiaqcufkoesr7gt4ficdrtsv7pbdivcl7f6brnjeirykyz6j4h5kcq"
 }
