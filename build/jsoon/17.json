@@ -1,0 +1,18 @@
+{
+  "id": 17,
+  "name": "Depth of Palms",
+  "description": "Getting artsy in the golden hour",
+  "date": 1623794800,
+  "image": "ipfs://bafybeiaqcufkoesr7gt4ficdrtsv7pbdivcl7f6brnjeirykyz6j4h5kcq/17.png",
+  "edition": 17,
+  "attributes": [
+    {
+      "trait_type": "La Piscina",
+      "value": "Bright Lights"
+    },
+    {
+      "trait_type": "Sony",
+      "value": "Alpha"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 18,
+  "name": "Windy",
+  "description": "Keeps the fly's off my margarita",
+  "date": 1623794800,
+  "image": "ipfs://bafybeiaqcufkoesr7gt4ficdrtsv7pbdivcl7f6brnjeirykyz6j4h5kcq/18.png",
+  "edition": 18,
+  "attributes": [
+    {
+      "trait_type": "La Piscina",
+      "value": "Fan"
+    },
+    {
+      "trait_type": "Sony",
+      "value": "Alpha"
+    }
+  ]
+}

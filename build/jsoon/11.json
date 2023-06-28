@@ -1,0 +1,18 @@
+{
+  "id": 11,
+  "name": "Party of 1",
+  "description": "The perfect towel roll",
+  "date": 1623794800,
+  "image": "ipfs://bafybeiaqcufkoesr7gt4ficdrtsv7pbdivcl7f6brnjeirykyz6j4h5kcq/11.png",
+  "edition": 11,
+  "attributes": [
+    {
+      "trait_type": "La Piscina",
+      "value": "Party"
+    },
+    {
+      "trait_type": "Sony",
+      "value": "Alpha"
+    }
+  ]
+}

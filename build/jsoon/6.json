@@ -1,0 +1,18 @@
+{
+  "id": 6,
+  "name": "Summer Reading",
+  "description": "Austin Central Library showing off in the Golden Hour",
+  "date": 1623794800,
+  "image": "ipfs://bafybeiaqcufkoesr7gt4ficdrtsv7pbdivcl7f6brnjeirykyz6j4h5kcq/6.png",
+  "edition": 6,
+  "attributes": [
+    {
+      "trait_type": "La Piscina",
+      "value": "Library"
+    },
+    {
+      "trait_type": "Sony",
+      "value": "Alpha"
+    }
+  ]
+}

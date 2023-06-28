@@ -1,0 +1,14 @@
+{
+  "id": "e95bb6094c2fa8181b8593b5c0b4cfed53f0b724",
+  "name": "#20",
+  "description": "La Piscina",
+  "image": "ipfs:///20.png",
+  "edition": 20,
+  "date": 1675894422587,
+  "attributes": [
+    {
+      "trait_type": "La Piscina",
+      "value": "DSC06882.jpg"
+    }
+  ]
+}

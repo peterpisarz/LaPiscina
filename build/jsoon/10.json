@@ -1,0 +1,18 @@
+{
+  "id": 10,
+  "name": "Carefree",
+  "description": "Do you mind watching my things?",
+  "date": 1623794800,
+  "image": "ipfs://bafybeiaqcufkoesr7gt4ficdrtsv7pbdivcl7f6brnjeirykyz6j4h5kcq/10.png",
+  "edition": 10,
+  "attributes": [
+    {
+      "trait_type": "La Piscina",
+      "value": "Boxed Water"
+    },
+    {
+      "trait_type": "Sony",
+      "value": "Alpha"
+    }
+  ]
+}
