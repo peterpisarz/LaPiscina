@@ -1,0 +1,22 @@
+{
+  "id": 7,
+  "name": "Reflection",
+  "description": "I'd go for a swim, but I just ate the octopus tapas",
+  "date": 1623794800,
+  "image": "ipfs://bafybeiaqcufkoesr7gt4ficdrtsv7pbdivcl7f6brnjeirykyz6j4h5kcq/7.png",
+  "edition": 7,
+  "attributes": [
+    {
+      "trait_type": "La Piscina",
+      "value": "Reflection"
+    },
+    {
+      "trait_type": "Sony",
+      "value": "Alpha"
+    },
+    {
+      "trait_type": "Prize",
+      "value": "Cocktail"
+    }
+  ]
+}

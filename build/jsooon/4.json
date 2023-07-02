@@ -1,0 +1,22 @@
+{
+  "id": 4,
+  "name": "Cactii Dream",
+  "description": "If I were a cactus, I would live here too",
+  "date": 1623794800,
+  "image": "ipfs://bafybeiaqcufkoesr7gt4ficdrtsv7pbdivcl7f6brnjeirykyz6j4h5kcq/4.png",
+  "edition": 4,
+  "attributes": [
+    {
+      "trait_type": "La Piscina",
+      "value": "Cactii"
+    },
+    {
+      "trait_type": "Sony",
+      "value": "Alpha"
+    },
+    {
+      "trait_type": "Prize",
+      "value": "Cocktail"
+    }
+  ]
+}

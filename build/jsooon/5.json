@@ -1,0 +1,22 @@
+{
+  "id": 5,
+  "name": "Thirsty",
+  "description": "The poster boy for proper hydration",
+  "date": 1623794800,
+  "image": "ipfs://bafybeiaqcufkoesr7gt4ficdrtsv7pbdivcl7f6brnjeirykyz6j4h5kcq/5.png",
+  "edition": 5,
+  "attributes": [
+    {
+      "trait_type": "La Piscina",
+      "value": "Succulent"
+    },
+    {
+      "trait_type": "Sony",
+      "value": "Alpha"
+    },
+    {
+      "trait_type": "Prize",
+      "value": "Cocktail"
+    }
+  ]
+}

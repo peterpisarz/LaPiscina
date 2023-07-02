@@ -1,0 +1,22 @@
+{
+  "id": 12,
+  "name": "Balcony Envy",
+  "description": "There's always another balcony",
+  "date": 1623794800,
+  "image": "ipfs://bafybeiaqcufkoesr7gt4ficdrtsv7pbdivcl7f6brnjeirykyz6j4h5kcq/12.png",
+  "edition": 12,
+  "attributes": [
+    {
+      "trait_type": "La Piscina",
+      "value": "Envy"
+    },
+    {
+      "trait_type": "Sony",
+      "value": "Alpha"
+    },
+    {
+      "trait_type": "Prize",
+      "value": "Appetizer"
+    }
+  ]
+}

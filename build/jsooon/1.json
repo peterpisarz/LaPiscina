@@ -1,0 +1,22 @@
+{
+  "id": 1,
+  "name": "Balcony Shot",
+  "description": "High ground at the Independent mid level balcony",
+  "date": 1623794800,
+  "image": "ipfs://bafybeiaqcufkoesr7gt4ficdrtsv7pbdivcl7f6brnjeirykyz6j4h5kcq/1.png",
+  "edition": 1,
+  "attributes": [
+    {
+      "trait_type": "La Piscina",
+      "value": "Independent"
+    },
+    {
+      "trait_type": "Sony",
+      "value": "Alpha"
+    },
+    {
+      "trait_type": "Prize",
+      "value": "Cocktail"
+    }
+  ]
+}

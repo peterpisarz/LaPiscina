@@ -17,7 +17,7 @@ photos_dir = './build/images'
 print(os.listdir(photos_dir)[0])
 
 # path to the directory to store the JSON files
-json_dir = os.path.join(os.path.dirname(photos_dir), 'jsoon')
+json_dir = os.path.join(os.path.dirname(photos_dir), 'jsooon')
 
 # create the directory to store the JSON files, if it doesn't exist
 if not os.path.exists(json_dir):
@@ -50,6 +50,10 @@ for i, row in df.iterrows():
             {
                 'trait_type': row['trait_type_2'],
                 'value': row['value_2'],
+            },
+            {
+                'trait_type': row['trait_type_3'],
+                'value': row['value_3'],
             },
         ],
     }

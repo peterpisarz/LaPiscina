@@ -1,0 +1,22 @@
+{
+  "id": 13,
+  "name": "Working Remote",
+  "description": "Are you staying in the hotel sir?",
+  "date": 1623794800,
+  "image": "ipfs://bafybeiaqcufkoesr7gt4ficdrtsv7pbdivcl7f6brnjeirykyz6j4h5kcq/13.png",
+  "edition": 13,
+  "attributes": [
+    {
+      "trait_type": "La Piscina",
+      "value": "Laptop"
+    },
+    {
+      "trait_type": "Sony",
+      "value": "Alpha"
+    },
+    {
+      "trait_type": "Prize",
+      "value": "Appetizer"
+    }
+  ]
+}

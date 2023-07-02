@@ -1,0 +1,22 @@
+{
+  "id": 9,
+  "name": "Call me the Breeze",
+  "description": "I'm not even sure if the fan works",
+  "date": 1623794800,
+  "image": "ipfs://bafybeiaqcufkoesr7gt4ficdrtsv7pbdivcl7f6brnjeirykyz6j4h5kcq/9.png",
+  "edition": 9,
+  "attributes": [
+    {
+      "trait_type": "La Piscina",
+      "value": "Breeze"
+    },
+    {
+      "trait_type": "Sony",
+      "value": "Alpha"
+    },
+    {
+      "trait_type": "Prize",
+      "value": "Appetizer"
+    }
+  ]
+}

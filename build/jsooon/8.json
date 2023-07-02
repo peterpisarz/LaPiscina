@@ -1,0 +1,22 @@
+{
+  "id": 8,
+  "name": "Umbrella not required",
+  "description": "Your usual lounge chair is available sir",
+  "date": 1623794800,
+  "image": "ipfs://bafybeiaqcufkoesr7gt4ficdrtsv7pbdivcl7f6brnjeirykyz6j4h5kcq/8.png",
+  "edition": 8,
+  "attributes": [
+    {
+      "trait_type": "La Piscina",
+      "value": "Lounge"
+    },
+    {
+      "trait_type": "Sony",
+      "value": "Alpha"
+    },
+    {
+      "trait_type": "Prize",
+      "value": "Appetizer"
+    }
+  ]
+}

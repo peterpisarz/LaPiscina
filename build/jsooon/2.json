@@ -1,0 +1,22 @@
+{
+  "id": 2,
+  "name": "Wicker Lover",
+  "description": "Sunset shot for relaxation",
+  "date": 1623794800,
+  "image": "ipfs://bafybeiaqcufkoesr7gt4ficdrtsv7pbdivcl7f6brnjeirykyz6j4h5kcq/2.png",
+  "edition": 2,
+  "attributes": [
+    {
+      "trait_type": "La Piscina",
+      "value": "Wicker"
+    },
+    {
+      "trait_type": "Sony",
+      "value": "Alpha"
+    },
+    {
+      "trait_type": "Prize",
+      "value": "Cocktail"
+    }
+  ]
+}

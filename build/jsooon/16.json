@@ -1,0 +1,22 @@
+{
+  "id": 16,
+  "name": "Neighbors",
+  "description": "The only lifeguard on duty here",
+  "date": 1623794800,
+  "image": "ipfs://bafybeiaqcufkoesr7gt4ficdrtsv7pbdivcl7f6brnjeirykyz6j4h5kcq/16.png",
+  "edition": 16,
+  "attributes": [
+    {
+      "trait_type": "La Piscina",
+      "value": "Neighbors"
+    },
+    {
+      "trait_type": "Sony",
+      "value": "Alpha"
+    },
+    {
+      "trait_type": "Prize",
+      "value": "T-Shirt"
+    }
+  ]
+}

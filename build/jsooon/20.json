@@ -1,0 +1,22 @@
+{
+  "id": 20,
+  "name": "No Diving",
+  "description": "Just dipping my feet",
+  "date": 1623794800,
+  "image": "ipfs://bafybeiaqcufkoesr7gt4ficdrtsv7pbdivcl7f6brnjeirykyz6j4h5kcq/20.png",
+  "edition": 20,
+  "attributes": [
+    {
+      "trait_type": "La Piscina",
+      "value": "Dive"
+    },
+    {
+      "trait_type": "Sony",
+      "value": "Alpha"
+    },
+    {
+      "trait_type": "Prize",
+      "value": "VIP Suite"
+    }
+  ]
+}
